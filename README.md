@@ -1,4 +1,4 @@
-## Flappy Bird 
+# Flappy Bird 
 
 This is a clone of the popular mobile game Flappy Bird, created using the Pygame library in Python.
 
